@@ -5,3 +5,6 @@ i used then,java -cp . day1,then it worked,because the folder i created was in o
 
 day2:
 i coded sum and avg finding method for array
+
+day3:
+found min and max in an array by assigning min and max to arr[0]
