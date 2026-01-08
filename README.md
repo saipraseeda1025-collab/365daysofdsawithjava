@@ -8,3 +8,6 @@ i coded sum and avg finding method for array
 
 day3:
 found min and max in an array by assigning min and max to arr[0]
+
+day4:
+used for loop with complexity of 0(n),and proceeded to find the reverse of the array
