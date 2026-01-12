@@ -11,3 +11,7 @@ found min and max in an array by assigning min and max to arr[0]
 
 day4:
 used for loop with complexity of 0(n),and proceeded to find the reverse of the array
+
+day5:(break for 3 days as i studied dsa theories for the programs worked out so far):
+today used java for finding how many nmber of positive ,neg,even and odd numbers for the values given for n times
+
