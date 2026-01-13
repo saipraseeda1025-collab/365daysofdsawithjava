@@ -14,4 +14,6 @@ used for loop with complexity of 0(n),and proceeded to find the reverse of the a
 
 day5:(break for 3 days as i studied dsa theories for the programs worked out so far):
 today used java for finding how many nmber of positive ,neg,even and odd numbers for the values given for n times
+day 6:
+today worked on with linear search,where i simply used key and if the key value is equal to any elements present inside the array,then it prints the index value,if not ntg will b displayed
 
